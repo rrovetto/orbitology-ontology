@@ -1,4 +1,4 @@
-# Orbitology Ontology
+# The Orbitology Ontology
 An ontology about orbitology, i.e., key concepts of orbital dynamics/mechanics. 
 
 ## Description
