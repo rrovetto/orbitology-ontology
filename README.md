@@ -2,8 +2,10 @@
 An ontology about orbitology, i.e., key concepts of orbital dynamics/mechanics. 
 
 ## Description
+Alternative titles may be: The orbital ontology core.
 
 ### Scope
+Concepts and terms from orbital dynamics/mechanics and astrodynamics are within scope.
 
 ### Purpose
 * To formally represent orbital concepts in a computable manner for various applicaitons to support safe and sustainable spaceflight, space science and innovative research
@@ -34,4 +36,3 @@ No warranty. No liability. All content, work and products are subject to revisio
 ©2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
-
